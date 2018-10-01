@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="ff130a3a4f7ce3007af8f9aba310c7b1" sys_domain="global" table="x_160232_innovate_innovate" version="3" view="advanced">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-01 00:02:26</sys_created_on>
+            <sys_id>80d3027a4f7ce3007af8f9aba310c77c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_160232_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ff130a3a4f7ce3007af8f9aba310c7b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-01 00:02:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_idea_type</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-01 00:02:26</sys_created_on>
+            <sys_id>04d3027a4f7ce3007af8f9aba310c77c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_160232_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ff130a3a4f7ce3007af8f9aba310c7b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-01 00:02:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_implemented</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-01 00:02:26</sys_created_on>
+            <sys_id>84d3027a4f7ce3007af8f9aba310c77c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_160232_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ff130a3a4f7ce3007af8f9aba310c7b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-01 00:02:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-01 00:02:26</sys_created_on>
+            <sys_id>08d3027a4f7ce3007af8f9aba310c77c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_160232_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ff130a3a4f7ce3007af8f9aba310c7b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-01 00:02:26</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-01 00:02:26</sys_created_on>
+            <sys_id>88d3027a4f7ce3007af8f9aba310c77c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_160232_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ff130a3a4f7ce3007af8f9aba310c7b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-01 00:02:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-01 00:02:26</sys_created_on>
+            <sys_id>0cd3027a4f7ce3007af8f9aba310c77c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_160232_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ff130a3a4f7ce3007af8f9aba310c7b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-01 00:02:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-01 00:02:26</sys_created_on>
+            <sys_id>8cd3027a4f7ce3007af8f9aba310c77c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_160232_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ff130a3a4f7ce3007af8f9aba310c7b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-01 00:02:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-01 00:02:26</sys_created_on>
+            <sys_id>00d3027a4f7ce3007af8f9aba310c77d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_160232_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ff130a3a4f7ce3007af8f9aba310c7b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-01 00:02:26</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_short_description</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-01 00:02:26</sys_created_on>
+            <sys_id>80d3027a4f7ce3007af8f9aba310c77d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_160232_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ff130a3a4f7ce3007af8f9aba310c7b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-01 00:02:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_160232_innovate_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-30 23:59:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff130a3a4f7ce3007af8f9aba310c7b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_160232_innovate_innovate</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate" source="x_160232_innovate">edce793e4f3ce3007af8f9aba310c790</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">edce793e4f3ce3007af8f9aba310c790</sys_scope>
+            <sys_update_name>sys_ui_section_ff130a3a4f7ce3007af8f9aba310c7b1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-30 23:59:24</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

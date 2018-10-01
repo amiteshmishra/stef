@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Innovate</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_160232_innovate_innovate</name>
+        <number_ref display_value="INN">c46f35764f7ce3007af8f9aba310c735</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-30 23:43:01</sys_created_on>
+        <sys_id>47fe7d364f7ce3007af8f9aba310c776</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Innovate</sys_name>
+        <sys_package display_value="Innovate" source="x_160232_innovate">edce793e4f3ce3007af8f9aba310c790</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">edce793e4f3ce3007af8f9aba310c790</sys_scope>
+        <sys_update_name>sys_db_object_47fe7d364f7ce3007af8f9aba310c776</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-30 23:43:02</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_160232_innovate.innovate_user" name="x_160232_innovate.innovate_user">6b5ff1764f7ce3007af8f9aba310c7de</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
